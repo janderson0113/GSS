@@ -43,6 +43,11 @@ This data is from the 2018 General Social Survey. The first blocks of R-code has
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+both variables in this analysis are categorical; So we use bar graphs and tables to summarize the data, and a chi squared test for inference.
+
+$H_0$ ; There is no relationship between gun ownership and whether one is in favor of capital punishment.
+
+
 ##Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
